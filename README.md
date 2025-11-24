@@ -133,11 +133,4 @@ VoiceRAG_agent_System/
     └── app.py           # Chat Interface    
 ```
 ---
-
-## ✍️ Author Information    
-Developed by **Aslam Sikder**, 22<sup>nd</sup> November, 2025    
-Email: [Aslam Sikder's Email](mailto:aslamsikder.edu@gmail.com)    
-LinkedIn: [Aslam Sikder's - Linkedin Account](https://www.linkedin.com/in/aslamsikder)    
-Kaggle: [Aslam Sikder's - Kaggle Account](https://www.kaggle.com/aslamsikder)    
-HuggingFace: [Aslam Sikder's - Huggingface Account](https://huggingface.co/aslamsikder)    
-Google Scholar: [Aslam Sikder's - Google Scholar Account](https://scholar.google.com/citations?hl=en&user=Ip1qQi8AAAAJ)    
+ 
